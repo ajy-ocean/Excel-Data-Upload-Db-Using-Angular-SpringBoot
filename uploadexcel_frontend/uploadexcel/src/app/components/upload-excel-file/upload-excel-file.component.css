@@ -1,0 +1,19 @@
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column; /* Stacks elements vertically */
+  justify-content: center;
+  align-items: center; /* Centers elements horizontally */
+  margin-left: 150px;
+}
+
+input {
+  margin-bottom: 30px;
+  font-size: 30px;
+  margin-top: 220px;
+}
+
+button {
+  margin-right: 160px;
+  font-size: 20px;
+}
